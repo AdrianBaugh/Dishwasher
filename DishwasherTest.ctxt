@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DishwasherTest
+comment1.params=
+comment1.target=void\ canCreateWithCapacity()
+comment2.params=
+comment2.target=void\ addingDishIncreasesCount()
+comment3.params=
+comment3.target=void\ cannotAddDishIfAtCapacity()
+comment4.params=
+comment4.target=void\ cannotAddNullDish()
+comment5.params=
+comment5.target=void\ canGetDishes()
+comment6.params=
+comment6.target=void\ canWashDishes()
+comment7.params=
+comment7.target=void\ canEmptyDishwasherWhenDishesAreClean()
+comment8.params=
+comment8.target=void\ cannotEmptyDishwasherWhenDishesAreDirty()
+numComments=9

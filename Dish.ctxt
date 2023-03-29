@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Dish
+comment0.text=\n\ Dish\ is\ a\ class\ that\ represents\ a\ single\ dish\ that\ can\ be\ added\ to\ a\ Dishwasher.\n\ YOU\ DO\ NOT\ NEED\ TO\ MODIFY\ THIS\ CLASS,\ but\ you\ will\ need\ to\ use\ it\ when\ completing\ the\ Dishwasher\ class.\n
+comment1.params=type
+comment1.target=Dish(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment3.params=other
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=int\ hashCode()
+numComments=5
